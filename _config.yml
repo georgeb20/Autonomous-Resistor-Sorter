@@ -2,3 +2,4 @@ theme: minima
 title: Autonomous Resistor Sorter
 author: George Bittar
 description: A blog site for the Autonomous Resistor Sorter Capstone Project.
+baseurl: /georgeb20
